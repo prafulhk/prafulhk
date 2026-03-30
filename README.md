@@ -35,13 +35,15 @@
 * User authentication & developers matching system
 * REST APIs with Node.js
 * Implemented responsive UI using React
+* 👉 GitHub: https://github.com/prafulhk/DevTinder-UI
+* 👉 GitHub: https://github.com/prafulhk/DevTinder-BE
 
 ### 🔹 Admin Dashboard
 
 * Developed scalable dashboard with reusable Angular components
 * Integrated backend APIs with optimized data flow
 * Designed maintainable frontend architecture
-* 👉 GitHub: https://github.com/prafulhk/Admin-dashboard-ui_be
+* 👉 GitHub: https://github.com/prafulhk/Admin-dashboard-ui_be 
 
 ### 🔹 Portfolio Website
 
