@@ -41,7 +41,7 @@
 * Developed scalable dashboard with reusable Angular components
 * Integrated backend APIs with optimized data flow
 * Designed maintainable frontend architecture
-* 👉 GitHub: https://github.com/prafulhk/admin-dashboard-frontend
+* 👉 GitHub: https://github.com/prafulhk/Admin-dashboard-ui_be
 
 ### 🔹 Portfolio Website
 
