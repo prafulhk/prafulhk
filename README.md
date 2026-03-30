@@ -38,7 +38,7 @@
 * 👉 GitHub: https://github.com/prafulhk/DevTinder-UI
 * 👉 GitHub: https://github.com/prafulhk/DevTinder-BE
 
-### 🔹 Admin Dashboard
+### 🔹 Admin Dashboard (Full Stack App)
 
 * Developed scalable dashboard with reusable Angular components
 * Integrated backend APIs with optimized data flow
