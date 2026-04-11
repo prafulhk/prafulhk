@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Praful Kusugal
+# 👋 Hi, I'm Praful Kusugalla
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Angular+Architect;Full+Stack+Developer;13%2B+Years+Experience;Building+Scalable+Applications" />
 </p>
